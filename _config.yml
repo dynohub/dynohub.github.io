@@ -1,3 +1,14 @@
 theme: jekyll-theme-slate
 title: A bibliography
 description: A comprehensive bibliography of everything I've read.
+# These markdown options fix the autolinking of vimwiki links in github pages
+markdown: CommonMarkGhPages
+# see https://github.com/gjtorikian/commonmarker#parse-options
+commonmark:
+  options:
+    - FOOTNOTES
+    - SMART
+  extensions:
+    - autolink
+    - strikethrough
+    - table
