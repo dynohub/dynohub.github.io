@@ -1,5 +1,5 @@
 dynohub.github.io/index.wiki
-Last modified: Fri Sep 11, 2020  03:31PM
+Last modified: Fri Sep 11, 2020  03:35PM
 
 
 # Bibligraphy
@@ -11,7 +11,7 @@ This is a bibliography of everything I've ever read.
 
 
 
-%%%%%%%%%%%%%%%%%%%%%% Blank example %%%%%%%%%%%%%%%%%%%%%% 
+##### Blank example 
 % Add @ sign at beginning to activate
 
 % (7 lines)
@@ -45,3 +45,11 @@ article{Blanknytimes,
   comment={},
   category={}
 }
+
+##### Other things to do:
+* [ ] Finish break out by sections and experiments to see how github pages renders bib style
+* [ ] Write up a disclaimer in README about how this is fairly raw first impressions, not researched or intended for publication
+* [ ] Update README for bibliography.git (if this all works) to say it is no longer being used and is just for archival purposes
+
+
+
