@@ -1,12 +1,12 @@
 dynohub.github.io/index.wiki
-Last modified: Fri Sep 11, 2020  04:12PM
+Last modified: Fri Sep 11, 2020  04:16PM
 
 
 # Bibligraphy
 This is a bibliography of everything I've ever read.
 
 ## Topics:
-## [Urbanism](Urbanism.md)
+## [Urbanism](Urbanism)
 
 
 
