@@ -1,14 +1,32 @@
 dynohub.github.io/index.wiki
-Last modified: Fri Sep 11, 2020  06:32PM
+Last modified: Fri Sep 11, 2020  10:32PM
 
 
 # Bibligraphy
 This is a bibliography of everything I've ever read.
+--------------------------------------------------------------------------------
 
 ## Topics:
 ### [Urbanism](Urbanism.md)
+### [Housing](Housing.md) 
+### ULURP 
+### Zoning 
+### Transportation 
+### Sport 
+### Health 
+### Music 
+### The Art 
+### Criticality 
+### Politics (And Public Policy)
+### Humanity 
+### Science 
+### Economics 
+### Other Stuff 
+### Novels 
+### Long Entries 
 
 
+--------------------------------------------------------------------------------
 
 ###### Blank example 
 % Add @ sign at beginning to activate
