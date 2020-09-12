@@ -1,5 +1,5 @@
 dynohub.github.io/index.wiki  
-Last modified: Fri Sep 11, 2020  10:50PM
+Last modified: Sat Sep 12, 2020  10:10AM
 
 
 # Bibligraphy
@@ -86,6 +86,8 @@ article{Blanknytimes,
 * [ ] Finish break out by sections and experiments to see how github pages renders bib style
 * [ ] Write up a disclaimer in README about how this is fairly raw first impressions, not researched or intended for publication
 * [ ] Update README for bibliography.git (if this all works) to say it is no longer being used and is just for archival purposes
+* [ ] When finished pasting in entries, check them side by side to see if the line counts match and they are the same
+	* (That is, be sure to not lose anything.)
 
 
 
