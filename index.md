@@ -1,5 +1,5 @@
 dynohub.github.io/index.wiki  
-Last modified: Sat Sep 12, 2020  10:10AM
+Last modified: Sun Sep 13, 2020  03:12PM
 
 
 # Bibligraphy
@@ -14,8 +14,8 @@ This is a bibliography of everything I've ever read that has any kind of resonan
 ### [Transportation](Transportation.md) 
 ### [Sport](Sport.md) 
 ### [Health](Health.md) 
-### Music 
-### The Art 
+### [Music](Music.md) 
+### [The Art](The Art.md) 
 ### Criticality 
 ### Politics (And Public Policy)
 ### Humanity 
