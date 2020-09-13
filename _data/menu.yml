@@ -37,5 +37,5 @@ entries:
         url: false
 
   - title: Bibliography
-    url: biblography/index.md
+    url: bibliography/index
 
