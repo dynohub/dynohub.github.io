@@ -1,5 +1,5 @@
 dynohub.github.io/Economics.md  
-Last modified: Sun Sep 13, 2020  03:27PM
+Last modified: Sun Sep 13, 2020  03:34PM
 
 ## Economics
 --------------------------------------------------------------------------------
@@ -816,7 +816,7 @@ url="http://dx.doi.org/10.1007/s10797-008-9082-z"
   
 @article {Shah688,  
         author = {Shah, Avni M. and Eisenkraft, Noah and Bettman, James R. and Chartrand, Tanya L.},  
-        title = {{\textquotedblleft}Paper or Plastic?{\textquotedblright}: How We Pay Influences Post-Transaction Connection},  
+        title = {``Paper or Plastic?'': How We Pay Influences Post-Transaction Connection},  
         volume = {42},  
         number = {5},  
         pages = {688--708},  
