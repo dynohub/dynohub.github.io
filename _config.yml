@@ -1,9 +1,9 @@
-# remote_theme: riggraz/no-style-please
-theme: jekyll-theme-minimal
-# theme: minima
-# minima theme is _very_ minimal, good for testing. It shows posts in the _posts directory
-title: A bibliography
-description: A comprehensive bibliography of everything I've read.
+title: A bibliography -- no-style-please
+author: Riccardo Graziosi # name of site's author
+email: riccardo.graziosi97@gmail.com # email of site's author
+url: https://riggraz.dev/no-style-please # root address of the site
+description: > # A comprehensive bibliography of everything I've read.
+  A (nearly) no-CSS, fast, minimalist Jekyll theme.
 # These markdown options fix the autolinking of vimwiki links in github pages
 markdown: CommonMarkGhPages
 # see https://github.com/gjtorikian/commonmarker#parse-options
@@ -15,3 +15,22 @@ commonmark:
     - autolink
     - strikethrough
     - table
+
+permalink: /:slug.html
+
+favicon: "./logo.png" # relative path to site's favicon
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
