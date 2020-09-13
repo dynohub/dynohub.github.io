@@ -1,5 +1,6 @@
-# theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+# theme: minima
+# minima theme is _very_ minimal, good for testing. It shows posts in the _posts directory
 title: A bibliography
 description: A comprehensive bibliography of everything I've read.
 # These markdown options fix the autolinking of vimwiki links in github pages
