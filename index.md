@@ -1,8 +1,8 @@
 dynohub.github.io/index.wiki  
-Last modified: Sun Sep 13, 2020  03:12PM
+Last modified: Sun Sep 13, 2020  03:29PM
 
 
-# Bibligraphy
+# Bibliography
 This is a bibliography of everything I've ever read that has any kind of resonance with me.
 --------------------------------------------------------------------------------
 
@@ -16,14 +16,14 @@ This is a bibliography of everything I've ever read that has any kind of resonan
 ### [Health](Health.md) 
 ### [Music](Music.md) 
 ### [The Art](The Art.md) 
-### Criticality 
-### Politics (And Public Policy)
-### Humanity 
-### Science 
-### Economics 
-### Other Stuff 
-### Novels 
-### Long Entries 
+### [Criticality](Criticality.md) 
+### [Politics](Politics.md) (And Public Policy)
+### [Humanity](Humanity.md) 
+### [Science](Science.md) 
+### [Economics](Economics.md) 
+### [Other Stuff](Other Stuff.md) 
+### [Novels](Novels.md) 
+### [Long Entries](Long Entries.md) 
 
 
 ## Key to entries

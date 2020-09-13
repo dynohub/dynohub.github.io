@@ -1,5 +1,5 @@
-dynohub.github.io/The Art.md
-Last modified: Sun Sep 13, 2020  03:13PM
+dynohub.github.io/The Art.md  
+Last modified: Sun Sep 13, 2020  03:16PM
 
 ## The Art
 --------------------------------------------------------------------------------
