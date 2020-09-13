@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: A bibliography
 description: A comprehensive bibliography of everything I've read.
 # These markdown options fix the autolinking of vimwiki links in github pages
