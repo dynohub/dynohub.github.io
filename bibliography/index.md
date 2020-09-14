@@ -1,10 +1,9 @@
 dynohub.github.io/index.wiki  
-Last modified: Sun Sep 13, 2020  03:55PM
+Last modified: Mon Sep 14, 2020  11:32AM
 
 
 # Bibliography
 This is a bibliography of everything I've ever read that has any kind of resonance with me.
---------------------------------------------------------------------------------
 
 ## Topics:
 ### [Urbanism](Urbanism.md)
@@ -26,8 +25,8 @@ This is a bibliography of everything I've ever read that has any kind of resonan
 ### [Long Entries](Long Entries.md) 
 
 
-## Key to entries
 --------------------------------------------------------------------------------
+## Key to entries
 @article{uniqueidentifier,  
   Author={Last, First and Last, First},  
   url={http://www.example.com},  
@@ -41,13 +40,13 @@ This is a bibliography of everything I've ever read that has any kind of resonan
  
 
 
-## Why this formatting
 --------------------------------------------------------------------------------
+## Why this formatting
 Because it lets me pull the entries as bibtex. Long-term viability, etc.
 
 
-###### Blank example 
 --------------------------------------------------------------------------------
+###### Blank example 
 % Add @ sign at beginning to activate  
   
 % (7 lines)  
@@ -82,12 +81,4 @@ article{Blanknytimes,
   category={}  
 }  
   
-###### Other things to do:
-* [X] Finish break out by sections and experiments to see how github pages renders bib style
-* [ ] Write up a disclaimer in README about how this is fairly raw first impressions, not researched or intended for publication
-* [ ] Update README for bibliography.git (if this all works) to say it is no longer being used and is just for archival purposes
-* [X] When finished pasting in entries, check them side by side to see if the line counts match and they are the same
-	* (That is, be sure to not lose anything.)
-
-
 
