@@ -1,7 +1,7 @@
 title: A bibliography --- no-style-please
 author: Riccardo Graziosi # name of site's author
 email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev/no-style-please # root address of the site
+# url: https://riggraz.dev/no-style-please # root address of the site
 description: > # A comprehensive bibliography of everything I've read.
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 # These markdown options fix the autolinking of vimwiki links in github pages
