@@ -2,7 +2,7 @@ title: Dynohub
 author: dynohub # name of site's author
 email: dynohub@gmail.com # email of site's author
 url: https://dynohub.github.io # root address of the site
-description: > # DYNOHUB is nothing more than a place to dump all the random
+description: > DYNOHUB is nothing more than a place to dump all the random
   notes piling up on my hard drive. Mostly about cities. "Dynohub" was
   originally the trademark name of hubs for bicycles made by Sturmey Archer
   that generated power. This site is not about bicycle parts - here DYNOHUB is
@@ -31,7 +31,7 @@ remote_theme: riggraz/no-style-please
 theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
